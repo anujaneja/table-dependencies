@@ -12,6 +12,7 @@ sale_order_item
 reverse_pickup
 parent_shipping_package
 shipping_package
+shipping_manifest
 sale_order
 invoice_item
 invoice

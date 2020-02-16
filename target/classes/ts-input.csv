@@ -40,3 +40,5 @@ return_manifest_item,shipping_package
 sale_order_item,shipping_package
 shipping_manifest_item,shipping_package
 parent_shipping_package,shipping_package
+shipping_manifest_item,shipping_manifest
+shipping_package,shipping_manifest
